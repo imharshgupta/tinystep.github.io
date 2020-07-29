@@ -1,0 +1,29 @@
+/*************************************          TAGS          ************************************/
+body{
+  background-color: #dddddd;
+}
+hr{
+border-style: dotted none none   none;
+width: 10%;
+color: grey ;
+border-width: 4px;
+}
+h1{
+  color: #01a9b4;
+}
+h1:hover {
+  color: #221f3b;
+}
+h2
+{
+  color: #01a9b4;
+}
+h3
+{
+  color: #01a9b4;
+}
+
+/*************************************             CLASS              ***********************************/
+.circular{
+  border-radius: 100%;
+}
